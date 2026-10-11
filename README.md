@@ -1,5 +1,4 @@
-# CanSat Ground Station
-
+## Cansat-Telemetry-monitoring-System
 ## Overview
 
 I worked on this project to build a ground-station interface for monitoring CanSat telemetry in real time. The application displays incoming flight and sensor data in a graphical interface, making it easier to observe how the system behaves during a simulated flight or when connected to a CanSat/on-board computer.
